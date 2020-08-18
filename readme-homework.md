@@ -15,3 +15,7 @@ Changes and adjustments include:
     -gave the page a title name that better describes the
     -shortened some class selectors so as to make easier in navigating between css and html (also left comments to better describe those sections)
     
+
+
+    *Still need to comment better and double check any and all css selectors*
+
